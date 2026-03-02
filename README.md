@@ -11,3 +11,6 @@
 ​Escalabilidade: Solução pensada para resolver problemas reais de mercado.
 ​Praticidade: Foco em transformar a teoria em eficiência no dia a dia.
 ​"A tecnologia é a ferramenta que potencializa o nosso tempo e transforma ideias em realidade."
+Link do Projeto: 
+https://notebooklm.google.com/notebook/81826d28-e3ed-43f5-8769-1d9868bc8813
+
