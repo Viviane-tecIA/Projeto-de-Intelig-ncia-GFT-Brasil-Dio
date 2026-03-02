@@ -4,7 +4,7 @@
 ​🛠️ Tecnologias Utilizadas
 ​Parceria: GFT Brasil
 ​Plataforma: DIO (Digital Innovation One)
-​Inteligência Artificial: NotebookLM  Gemini
+​Inteligência Artificial: NotebookLM e  Gemini
 ​Foco: Produtividade, automação e escalabilidade.
 ​✨ Destaques do Projeto
 ​Inovação GFT: Implementação de conceitos modernos de IA aplicados a negócios.
