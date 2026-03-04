@@ -1,4 +1,4 @@
-​🚀 Projeto: Inteligência GFT Brasil (DIO)
+​🚀 Projeto: Inteligência GFT Brasil (DIO) [NotebookLM]
 ​Este projeto foi desenvolvido como parte do bootcamp da GFT Brasil em parceria com a DIO, focando na aplicação de Inteligência Artificial para otimizar processos e gerar soluções inovadoras no cenário corporativo.
 ​Como mãe de 4 filhos e estudante em transição de carreira, este projeto demonstra minha capacidade de equilibrar o aprendizado de tecnologias de ponta com a gestão de tempo, entregando resultados práticos, eficientes e de alto valor.
 ​🛠️ Tecnologias Utilizadas
